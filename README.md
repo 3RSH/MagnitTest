@@ -1,0 +1,2 @@
+# MagnitTest
+Java-junior test
